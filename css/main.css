@@ -134,3 +134,33 @@ img {
 .news .content {
   font-size: 16px;
 }
+
+.ps-tips {
+  font-size: 13px;
+  color: #777;
+  margin: 8px 0;
+}
+
+.code-btn {
+  position: absolute;
+  top: 0;
+  right: 0;
+  color: #406599;
+  cursor: pointer;
+  font-size: 16px;
+  width: 80px;
+  height: 42px;
+  line-height: 42px;
+  padding: 0 16px;
+  text-align: center;
+}
+
+.doc-container {
+  width: 1120px;
+  margin: 30px auto;
+  background-color: #fff;
+  box-shadow: 0 1px 1px #ddd;
+  position: relative;
+  padding: 30px 70px;
+  text-align: justify;
+}
